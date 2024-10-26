@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
                 Console.WriteLine("hellöğ");
             Console.WriteLine("\nwöğrd");
+            Console.WriteLine("commit1");
         }
     }
 }
